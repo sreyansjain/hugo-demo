@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Adventure Time!</title>
+    <link>http://example.com/tags/test/index.xml</link>
+    <description>Recent content on Adventure Time!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://example.com/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Test</title>
+      <link>http://example.com/test/</link>
+      <pubDate>Sun, 03 Dec 2017 17:28:03 +0000</pubDate>
+      
+      <guid>http://example.com/test/</guid>
+      <description>
+
+&lt;p&gt;This is a fantastic way to edit sites.&lt;/p&gt;
+
+&lt;h3 id=&#34;this-is-working-great&#34;&gt;This is working great&lt;/h3&gt;
+
+&lt;p&gt;I would like to edit sites in this workflow&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
