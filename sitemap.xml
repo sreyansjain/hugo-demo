@@ -12,6 +12,11 @@
   </url>
   
   <url>
+    <loc>http://example.com/contact/</loc>
+    <lastmod>2015-10-13T23:12:18-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.com/posts/season-6-food-chain/</loc>
     <lastmod>2014-06-12T00:00:00+00:00</lastmod>
   </url>
